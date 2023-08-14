@@ -1,0 +1,38 @@
+header{
+    position: fixed;
+    width: 100%;
+    background: linear-gradient(145deg , rgb(4, 48, 50) ,rgb(23, 185, 197));
+    z-index: 1;
+}
+#Services{
+    background: linear-gradient(145deg, rgb(2, 62, 74), rgb(9, 151, 172));
+    color: rgb(255, 255, 255);
+}
+#contact-me{
+    background: linear-gradient(rgb(5, 89, 102),rgb(6, 169, 169), rgb(2, 34, 32));
+    color: silver;
+    padding-top: 100px;
+}
+#message,#name,#email{
+    background: transparent ;
+    height: 50px;
+    color: rgb(75, 75, 75);
+    font-family: 'poppins',sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    border-radius: 8px;
+    border: 1px solid #B8B6B6;
+    background: linear-gradient(145deg,hsl(174, 100%, 88%),white);
+    border: none;  
+}
+#message-box{
+    border-radius: 8px;
+}
+#footer{
+    height: 100px;
+    background: linear-gradient(rgb(3, 29, 28),rgb(0, 0, 0));
+    padding-top:40px;
+}
+.img-fluid{
+    width:200px;
+}
